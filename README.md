@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  CSI Foss hack winner 🥇
 ![logo](./docs/images/logo.png)
 ## 📌 Introduction:
@@ -75,3 +76,7 @@ docker-compose up --build
 - Wishlist
 - Eligibility
 - Share in social media wo side wale dabbe twitter, facebook
+=======
+# ClubHive
+SPIT Hackathon Project(Price for Best Open Source Project)
+>>>>>>> fd5db755c5db9a1bfe06dfb4819b2a2d985ffca2
